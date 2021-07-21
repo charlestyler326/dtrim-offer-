@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zerstor.store	TRUE	/	FALSE	1999999999	__bkl	Y1UxTFNqQjBUMEV3VTIxRGN6Rk5hSFY0ZVVOTFNVUXJNV1ZsUlZGbGFqUjNOV2xIYkdwbGJDdDVjVUZ6U3k5SWNteGpSVVZ6U3poaWFGZDFiV05NY1E9PQ%3D%3D
+.zerstor.store	TRUE	/	FALSE	1999999999	__cfduid	da092e170fe0fc65f1cba80af779ae15f1608937699
+zerstor.store	TRUE	/	FALSE	1999999999	SameSite	Lax
+
